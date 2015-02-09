@@ -40,7 +40,7 @@ Practica con la kata siguiendo el ciclo de TDD
 
 1. Agrega tu prueba en el archivo `test/agenda_telefonica_test.rb`
 2. Verifica que falle con el comando `ruby -Ilib test/agenda_telefonica_test.rb`
-3. Pon el código para que pase en el archivo `agenda_telefonica.rb`
+3. Pon el código para que pase en el archivo `lib/agenda_telefonica.rb`
 4. verifica con `ruby -Ilib test/agenda_telefonica_test.rb`
 5. Haz un commit para guardar tu avance.
 
